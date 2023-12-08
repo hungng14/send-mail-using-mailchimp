@@ -1,0 +1,17 @@
+{
+  "name": "send-mail-using-mandrillapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type":"module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@mailchimp/mailchimp_transactional": "^1.0.50",
+    "dotenv": "^16.3.1",
+    "mailchimp_transactional": "^0.0.1-security"
+  }
+}
